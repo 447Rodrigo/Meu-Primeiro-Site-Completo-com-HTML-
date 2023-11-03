@@ -28,7 +28,7 @@ Todas as páginas terão que seguir um padrão pré-definido. Como não aprendem
 
 No Menu, ficará localizado o menu de navegação (ah vá!), no Header de cada página ficará uma imagem, no Footer informações de contato, e o Content é o conteúdo de cada página.
 
-  *Página Principal
+  * Página Principal
 
 Deve ter uma imagem no Header.
 Em Content uma breve descrição sobre a clínica.
